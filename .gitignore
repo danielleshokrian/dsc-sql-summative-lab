@@ -1,3 +1,6 @@
+# Extracted database (generated from im.db.zip by the notebook)
+im.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
